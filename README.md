@@ -5,5 +5,5 @@ This plugin utilizes PHP to create functions to check for various things at chec
 
 We currently use it to show custom shipping rates for UPS and USPS depending on whether the customer is closer to Pennsylvania or Nevada. Those are our two warehouse locations for automotive parts.
 - If an order is made up of only small stickers, it will also show a flat rate option for stickers that does not include tracking (first class mail).
-- If an order contains Bavar Wheels or Rota Wheels, it shows their flat rate shipping for US states.
+- If an order contains Bavar Wheels, Rota Wheels, or Seibon Carbon, it shows their flat rate shipping for US states.
 - If an order contains any aftermarket part, it will only show UPS shipping rates at checkout.
